@@ -168,8 +168,3 @@ Example incident documentation:
 
 ------------------------------------------------------------------------
 
-## Future Improvements
-
--   Email or Slack alerts for failures
--   Web dashboard for monitoring
--   Configuration-based service management
